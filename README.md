@@ -12,4 +12,3 @@ Technologies used in the project:
 *   SwaggerJs
 *   Postgresql
 *   ExpressJs
-*   
