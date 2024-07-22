@@ -1,10 +1,14 @@
-SHOPEASE PROJECT
-For this project we obtained a sales and ecommerce dataset to be used for the project. We fed the data into 5 tables using psql. We then created routes for all the tables and implemented GET(retrieve), PUT(update), POST(add) and DELETE for each route. We then used swagger to create API documentation for all the endpoints.
+<h1 align="center" id="title">SHOPEASE PROJECT</h1>
 
-Acknowledgements
-I would like to Acknowledge all the people that helped to see this project to its completion for their dedication.
+<p id="description">For this project we obtained aN ecommerce dataset to be used for the project. We fed the data into 5 tables using psql. We then created routes for all the tables and implemented CRUDE for each route. We then used swagger to create API documentation for all the endpoints.</p>
 
-Tech Stack
-Client: Swagger
+  
+  
+<h2>💻 Built with</h2>
 
-Server: Node, Express, Postgresql,
+Technologies used in the project:
+
+*   NodeJs
+*   SwaggerJs
+*   Postgresql
+*   ExpressJs
